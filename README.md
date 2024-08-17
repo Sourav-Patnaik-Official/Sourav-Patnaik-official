@@ -1,0 +1,18 @@
+🌟 Hello! I'm Sourav Patnaik, a dedicated web developer with a strong passion for crafting user-friendly and impactful online experiences.
+
+🎓 Education: I earned my B.Tech in Computer Science Engineering from Ajay Binay Institute of Technology (ABIT), Cuttack, Odisha. My academic journey, along with practical training, has been pivotal in developing my expertise.
+
+💼 Experience: I'm currently interning at Ervon Technology, where I’m gaining valuable industry experience. Additionally, I work as a freelancer, taking on diverse projects that allow me to apply and expand my skills.
+
+🚀 Skills:
+
+HTML, CSS, JavaScript, Python, SQL – Mastered at Pyspiders.
+React and Bootstrap – Developed at WebMasters Learning, an institute known for its comprehensive training in web technologies.
+🎮 Hobbies: In my free time, I enjoy playing games and listening to music, activities that help me stay creative and motivated.
+
+🌟 Vision: I’m driven by a commitment to using my Front End Development skills to build platforms that are not only functional but also provide an engaging user experience. My goal is to create solutions that exceed expectations and make a meaningful impact.
+
+<!---
+Sourav-Patnaik-official/Sourav-Patnaik-official is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
